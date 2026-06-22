@@ -19,6 +19,16 @@
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
+
+---
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaloniNigam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SaloniNigam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaloniNigam&show_icons=true&locale=en&theme=tokyonight" alt="SaloniNigam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaloniNigam&theme=tokyonight" alt="SaloniNigam" /></p>
 <!--
 **SaloniNigam/SaloniNigam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

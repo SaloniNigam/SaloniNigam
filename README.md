@@ -54,25 +54,6 @@ Software Developer • Data Analytics Enthusiast • B.Tech CSE Student
 
 ---
 
-## 🚀 Featured Projects
-
-### ☕ Aura Brew
-AI-powered Cafe Website built with **Python, FastAPI, HTML, CSS & JavaScript**
-
-🔗 Live Demo:  
-https://aura-brew-782216600058.us-central1.run.app/menu
-
----
-
-### 📚 Library Management System
-Desktop application developed using **Python & Tkinter**.
-
----
-
-### 📊 Retail Inventory Dashboard
-A data analytics project using **Python, SQL & Power BI**.
-
----
 
 ## 📊 GitHub Statistics
 

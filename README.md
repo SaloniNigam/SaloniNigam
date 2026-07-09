@@ -71,9 +71,8 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaloniNigam&theme=tokyo-night"/>
+  <img src="https://raw.githubusercontent.com/SaloniNigam/SaloniNigam/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
 ---
 
 # 🎯 Current Goals

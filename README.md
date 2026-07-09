@@ -71,8 +71,8 @@
 
 # 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaloniNigam&theme=tokyo-night&hide_border=true"/>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaloniNigam&theme=tokyonight" alt="SaloniNigam" />
 </p>
 ---
 

@@ -57,6 +57,16 @@ Software Developer • Data Analytics Enthusiast • B.Tech CSE Student
 
 ## 📊 GitHub Statistics
 
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaloniNigam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SaloniNigam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaloniNigam&show_icons=true&locale=en&theme=tokyonight" alt="SaloniNigam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaloniNigam&theme=tokyonight" alt="SaloniNigam" /></p>
+<!--
+*SaloniNigam/SaloniNigam* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaloniNigam&show_icons=true&theme=tokyonight&hide_border=true"/>
 

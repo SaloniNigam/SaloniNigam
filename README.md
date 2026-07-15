@@ -43,37 +43,12 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaloniNigam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaloniNigam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SaloniNigam&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SaloniNigam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaloniNigam&theme=tokyonight" alt="SaloniNigam" />
 </p>
+
 ---
 
 # 🎯 Current Goals
